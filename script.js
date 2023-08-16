@@ -6,7 +6,7 @@ let factArr = [
   "Some cities have laws that criminalize homelessness, leading to a cycle where homeless individuals may face      arrest and incarceration instead of receiving the mental health support they need"
 
 ];
-
+console.log("hello")
 
 //Get main div
 let factsContainer = document.getElementById("homelessFacts")
